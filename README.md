@@ -3,6 +3,7 @@ Welcome to the Technical Interview Frontend project!
 
 ## Installation
 To get started, first clone the repository to your local machine. 
+`git clone https://github.com/Octopus-Moneycoach/FE-Technical-Interview.git`
 
 Then, navigate to the project directory and install the necessary dependencies:
 `npm install`
